@@ -46,7 +46,6 @@
 //   }
 // }
 
-const fetch = require("node-fetch");
 const webpush = require("web-push");
 
 
